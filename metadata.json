@@ -1,0 +1,8 @@
+{
+  "name": "CS pro",
+  "description": "Digital board and card game scorekeeper with automated winner calculation, round tracking, tournament leaderboards, and grand landscape PDF victory certificate generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
